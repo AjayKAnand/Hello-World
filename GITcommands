@@ -1,0 +1,14 @@
+git config --global user.name "AjayKAnand"
+
+git config --global user.email "AjayKumarAnand@gmail.com"
+
+git config --list
+
+git version
+
+git clone https://github.com/AjayKAnand/Hello-World.git
+
+git status
+
+untracked      modified        staged           unmodified
+new file       changed file    added file       committed file
