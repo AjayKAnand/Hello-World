@@ -12,3 +12,9 @@ git status
 
 untracked      modified        staged           unmodified
 new file       changed file    added file       committed file
+
+git add
+
+git commit -m "Message"
+
+git push origin main
